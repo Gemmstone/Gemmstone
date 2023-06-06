@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 ![Gemmstone's Avatar](https://example.com/avatar.png) *(Feel free to replace this URL with your own adorable avatar image)*
 -->
 <details open>
-  <summary><strong>[🇺🇸 English Version]</strong></summary>
+  <summary><strong>🇺🇸 English Version</strong></summary>
+ 
+  
 Hewwo there! I'm Emma, also known as Gemmstone—a tech enthusiast who loves diving into the enchanting world of coding. As an Arch Linux and KDE lover, I find joy in exploring the realms of open-source technology while expressing my creativity through adorable projects.
 
 ## ✨ About Me
@@ -53,7 +55,9 @@ May our adventures be filled with adorable coding moments, bursts of hyperfocus,
 </details>
 
 <details>
-  <summary><strong>[🇲🇽 Versión en Español]</strong></summary>
+  <summary><strong>🇲🇽 Versión en Español</strong></summary>
+   
+  
 ¡Holiii! Soy Emma, también conocida como Gemmstone: una entusiasta de la tecnología que ama sumergirse en el encantador mundo de la programación. Como amante de Arch Linux y KDE, encuentro alegría en explorar los reinos de la tecnología de código abierto mientras expreso mi creatividad a través de proyectos adorables.
 
 ## ✨ Sobre mí
