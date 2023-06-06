@@ -26,7 +26,7 @@ Hewwo there! I'm Emma, also known as Gemmstone—a tech enthusiast who loves div
 
 ## ✨ About Me
 
-In this whimsical journey called life, I face the magical challenges of coding with my own uwu flair. I embrace my love for fashion, including dresses, skirts, makeup, and nails, as they add an extra sprinkle of cuteness to my coding adventures. However, I must admit that my path is not always smooth. As someone with ADHD, my coding journey is filled with bursts of hyperfocus and moments when my focus seems to wander off like a playful butterfly. But fear not, for within this chaos, I find moments of absolute coding magic.
+In this whimsical journey called life, I face the magical challenges of coding with my own flair. I embrace my love for fashion, including dresses, skirts, makeup, and nails, as they add an extra sprinkle of cuteness to my coding adventures. However, I must admit that my path is not always smooth. As someone with ADHD, my coding journey is filled with bursts of hyperfocus and moments when my focus seems to wander off like a playful butterfly. But fear not, for within this chaos, I find moments of absolute coding magic.
 
 ## ✨ Projects ✨
 
