@@ -22,11 +22,9 @@ Here are some ideas to get you started:
 -->
 Hewwo there! I'm Emma, also known as Gemmstone—a tech enthusiast who loves diving into the enchanting world of coding. As an Arch Linux and KDE lover, I find joy in exploring the realms of open-source technology while expressing my creativity through adorable projects.
 
-
 ## ✨ About Me
 
 In this whimsical journey called life, I face the magical challenges of coding with my own uwu flair. I embrace my love for fashion, including dresses, skirts, makeup, and nails, as they add an extra sprinkle of cuteness to my coding adventures. However, I must admit that my path is not always smooth. As someone with ADHD, my coding journey is filled with bursts of hyperfocus and moments when my focus seems to wander off like a playful butterfly. But fear not, for within this chaos, I find moments of absolute coding magic.
-
 
 ## ✨ Projects ✨
 
@@ -34,7 +32,7 @@ Join me in this whimsical adventure through my delightful projects:
 
 ### [💼 Sistema-de-Facturación - PRIVATE](https://github.com/Gemmstone/Sistema-de-Facturacion)
 
-A private project, developed all on my own for a small Guatemalan company. Over the course of almost 4 years, this project has grown and evolved to support the company's invoicing and inventory management needs. With approximately 71,300 lines of Python code and 63 .ui files, this project showcases its complexity and scale. Unfortunately, due to its private nature, I am unable to share the entire codebase. However, I'm more than happy to answer any questions you may have about its development process and the magical challenges I encountered along the way.
+A private project, developed all on my own for a small Guatemalan company. Over the course of almost 4 years, this project has grown and evolved to support the company's invoicing, inventory management and many other needs. With approximately 71,300 lines of Python code and 63 .ui files, this project showcases its complexity and scale. Unfortunately, due to its private nature, I am unable to share the entire codebase. However, I'm more than happy to answer any questions you may have about its development process and the magical challenges I encountered along the way.
 
 ### [🧠 LoFi-Fokus](https://github.com/Gemmstone/lofi-fokus)
 
@@ -49,5 +47,4 @@ Express your pride and celebrate diversity with PrideFlags-KDE. This project off
 My experimental bot project, this one is the second version of it, where I continuously learn and explore new ideas. It serves as a versatile bot that can be customized and expanded to fit various purposes. While it may not currently fulfill a moderation role, it holds the potential to evolve and acquire new functionalities as I continue to develop and experiment.
 
 ----
-
 May our adventures be filled with adorable coding moments, bursts of hyperfocus, and a never-ending supply of joy! Stay cute, stay creative, and keep tinkering with tech! ✨
