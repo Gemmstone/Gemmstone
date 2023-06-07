@@ -36,7 +36,7 @@ Join me in this whimsical adventure through my delightful projects:
 
 ### [💼 Sistema-de-Facturación - PRIVATE](https://github.com/Gemmstone/Sistema-de-Facturacion)
 
-A private project, developed all on my own for a small Guatemalan company. Over the course of almost 4 years, this project has grown and evolved to support the company's invoicing, inventory management, and many other needs. With approximately 71,300 lines of Python code and 63 .ui files, this project showcases its complexity and scale. Unfortunately, due to its private nature, I am unable to share the entire codebase. However, I'm more than happy to answer any questions you may have about its development process and the magical challenges I encountered along the way, to this day i still work for that small company so this project is still being developed on.
+A private project, developed all on my own for a small Guatemalan company. Over the course of almost 4 years, this project has grown and evolved to support the company's invoicing, inventory management, and many other needs. With approximately 71,300 lines of Python code and 63 .ui files, this project showcases its complexity and scale. Unfortunately, due to its private nature, I am unable to share the entire codebase. However, I'm more than happy to answer any questions you may have about its development process and the magical challenges I encountered along the way, to this day i still work for that small company so this project is still being developed on and it's been my main source of learning so it's bound to have bad code in some places.
 
 ### [🧠 LoFi-Fokus](https://github.com/Gemmstone/lofi-fokus)
 
@@ -70,7 +70,7 @@ Acompáñame en esta aventura caprichosa a través de mis proyectos encantadores
 
 ### [💼 Sistema-de-Facturación - PRIVADO](https://github.com/Gemmstone/Sistema-de-Facturacion)
 
-Un proyecto privado, desarrollado por mí misma para una pequeña empresa guatemalteca. A lo largo de casi 4 años, este proyecto ha crecido y evolucionado para satisfacer las necesidades de facturación, gestión de inventario y muchos otros aspectos de la empresa. Con aproximadamente 71,300 líneas de código Python y 63 archivos .ui, este proyecto muestra su complejidad y escala. Desafortunadamente, debido a su naturaleza privada, no puedo compartir todo el código fuente. Sin embargo, estaré encantada de responder cualquier pregunta que tengas sobre su proceso de desarrollo y los desafíos mágicos que he enfrentado en el camino, hasta el día de hoy todavía trabajo para esa pequeña empresa, por lo que este proyecto aún se está desarrollando.
+Un proyecto privado, desarrollado por mí misma para una pequeña empresa guatemalteca. A lo largo de casi 4 años, este proyecto ha crecido y evolucionado para satisfacer las necesidades de facturación, gestión de inventario y muchos otros aspectos de la empresa. Con aproximadamente 71,300 líneas de código Python y 63 archivos .ui, este proyecto muestra su complejidad y escala. Desafortunadamente, debido a su naturaleza privada, no puedo compartir todo el código fuente. Sin embargo, estaré encantada de responder cualquier pregunta que tengas sobre su proceso de desarrollo y los desafíos mágicos que he enfrentado en el camino, hasta el día de hoy todavía trabajo para esa pequeña empresa, por lo que este proyecto aún se está desarrollando y ha sido mi principal fuente de aprendizaje, por lo que es probable que tenga mal código en algunos lugares.
 
 ### [🧠 LoFi-Fokus](https://github.com/Gemmstone/lofi-fokus)
 
