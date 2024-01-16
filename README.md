@@ -34,6 +34,10 @@ In this whimsical journey called life, I face the magical challenges of coding w
 
 Join me in this whimsical adventure through my delightful projects:
 
+### [📹 PyNGTuber](https://github.com/Gemmstone/PyNGtuber)
+
+Vtubing Software made in python (//TODO: info on this)
+
 ### [💼 Sistema-de-Facturación - PRIVATE](https://github.com/Gemmstone/Sistema-de-Facturacion)
 
 A private project, developed all on my own for a small Guatemalan company. Over the course of almost 4 years, this project has grown and evolved to support the company's invoicing, inventory management, and many other needs. With approximately 71,300 lines of Python code and 63 .ui files, this project showcases its complexity and scale. Unfortunately, due to its private nature, I am unable to share the entire codebase. However, I'm more than happy to answer any questions you may have about its development process and the magical challenges I encountered along the way, to this day i still work for that small company so this project is still being developed on and it's been my main source of learning so it's bound to have bad code in some places.
@@ -67,6 +71,10 @@ En este viaje caprichoso llamado vida, enfrento los desafíos mágicos de la pro
 ## ✨ Proyectos ✨
 
 Acompáñame en esta aventura caprichosa a través de mis proyectos encantadores:
+
+### [📹 PyNGTuber](https://github.com/Gemmstone/PyNGtuber)
+
+Vtubing Software hecho en python (//TODO: info on this)
 
 ### [💼 Sistema-de-Facturación - PRIVADO](https://github.com/Gemmstone/Sistema-de-Facturacion)
 
