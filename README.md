@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ![Gemmstone's Avatar](https://example.com/avatar.png) *(Feel free to replace this URL with your own adorable avatar image)*
 -->
-<details open>
+<details>
   <summary><strong>🇺🇸 English Version</strong></summary>
  
   
